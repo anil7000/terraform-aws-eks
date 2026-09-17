@@ -44,7 +44,7 @@ Do not run apply merely to validate a change.
 Start with the relevant [example](examples/README.md); examples are not a
 production architecture approval.
 
-## Development note
+## Attribution
 
-This review guide was added with AI assistance. Upstream code, licenses and
+Upstream code, licenses and
 contributor attribution remain unchanged.
